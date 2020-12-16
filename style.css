@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgb(66, 26, 66);
+    color: white;
+}
+
+.wrapper {
+    width: 600px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.aside {
+    float: right;
+}
